@@ -1,6 +1,6 @@
 version = 1
 
-test_patterns = ["spec/**"]
+exclude_patterns = ["spec/**"]
 
 [[analyzers]]
 name = "ruby"
